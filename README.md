@@ -7,7 +7,7 @@ Regarding advanced topics, you can learn how to compute magnetization using stat
 
 Through this tutorial, you will become familiar with quantum computing techniques that are essential for quantum physics research. 
 
-Contents
+Table of Contents
 1. Tutorial on Qiskit -- Measurement, Time-evolution, Ising model, Phase transition
 2. Quantum Teleportation
 3. Quantum Energy Teleportation
