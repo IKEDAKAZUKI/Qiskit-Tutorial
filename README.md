@@ -12,4 +12,4 @@ Table of Contents
 2. Quantum Teleportation
 3. Quantum Energy Teleportation
 4. Quantum Simulation of Gauge Theory (Schwinger model)
-5. Green Function, Two-Point Function and Hadamard Test (New!!)
+5. Green's Function, Two-Point Function and Hadamard Test (New!!)
