@@ -284,28 +284,36 @@ DOI: [10.1007/JHEP02(2025)118](https://doi.org/10.1007/JHEP02%282025%29118)
 If you use the quantum energy teleportation tutorial, please cite:
 
 ```bibtex
-@article{Ikeda2023QET,
-  author  = {Ikeda, Kazuki},
-  title   = {Demonstration of Quantum Energy Teleportation on Superconducting Quantum Hardware},
-  journal = {Physical Review Applied},
-  volume  = {20},
-  pages   = {024051},
-  year    = {2023},
-  doi     = {10.1103/PhysRevApplied.20.024051}
+@article{PhysRevApplied.20.024051,
+  title = {Demonstration of Quantum Energy Teleportation on Superconducting Quantum Hardware},
+  author = {Ikeda, Kazuki},
+  journal = {Phys. Rev. Appl.},
+  volume = {20},
+  issue = {2},
+  pages = {024051},
+  numpages = {12},
+  year = {2023},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.20.024051},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.20.024051}
 }
 ```
 
 If you use the Green’s-function, two-point-function, or Hadamard-test tutorial in connection with real-time Schwinger-model simulations, please cite:
 
 ```bibtex
-@article{Barata2025SchwingerTimelike,
-  author  = {Barata, Jo{\~a}o and Ikeda, Kazuki and Mukherjee, Swagato and Raghoonanan, Jonathan},
-  title   = {Towards a Real-Time Computation of Timelike Hadronic Vacuum Polarization and Light-by-Light Scattering: Schwinger Model Tests},
-  journal = {Journal of High Energy Physics},
-  volume  = {2025},
-  pages   = {118},
-  year    = {2025},
-  doi     = {10.1007/JHEP02(2025)118}
+@article{Barata:2024bzk,
+    author = "Barata, Jo{\~a}o and Ikeda, Kazuki and Mukherjee, Swagato and Raghoonanan, Jonathan",
+    title = "{Towards a real-time computation of timelike hadronic vacuum polarization and light-by-light scattering: Schwinger Model tests}",
+    eprint = "2406.03536",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1007/JHEP02(2025)118",
+    journal = "JHEP",
+    volume = "02",
+    pages = "118",
+    year = "2025"
 }
 ```
 
