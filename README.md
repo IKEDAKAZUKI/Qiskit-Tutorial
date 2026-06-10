@@ -21,7 +21,7 @@
 
 ## Overview
 
-This repository provides a compact but research-oriented collection of **Qiskit tutorials** for quantum information science, quantum many-body physics, and quantum simulation.
+This repository provides a compact but research-oriented collection of **Qiskit tutorials** for quantum information science, quantum many-body physics, and quantum simulation. Materials are based on lectures at UMass Boston.
 
 The notebooks begin with the foundations of quantum circuits and measurements, then progress toward advanced topics including:
 
